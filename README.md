@@ -39,5 +39,11 @@ I learnt to create date and distinct name tables. I also learned to model these 
 
 ![Screenshot of Dasboard](https://github.com/OseAndrea/Optimis-Optimus-Group-Chat-Analysis/assets/130297747/d36d8530-e32e-4f7f-83f3-1dfd04cd5de7)
 
-
-
+1. There are 65 active members on the group and the number of messages analysed are 967 (after cleaning).
+2. The most active members in the group are Tracie, Gweke, Ikpemosi, Okoh, Ose~Andrea, Alexandra and Harriet.
+3. The least active members are FelaBack, Fortune, PraiseEl, Akugbe, Barbie, Damilola, and Daniel.
+4. The group is more active on the weekends with Fridays and Saturdays having the most number of messages.
+5. Considering time, the group is most active at night with the highest peaks between 9:00pm and 10:00pm.
+6. Within this time frame, February was the busiest month, and considering that the most used words are 'Happy', 'Birthday', and 'Congratulations', we can infer that there were a lot of birthday celebrations and goodnews in February.
+---
+You can interact with the report ![here](https://app.powerbi.com/groups/me/reports/b22735c4-ac8d-434f-a95b-5bbad2449d8a?experience=power-bi)
