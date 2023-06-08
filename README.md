@@ -46,4 +46,4 @@ I learnt to create date and distinct name tables. I also learned to model these 
 5. Considering time, the group is most active at night with the highest peaks between 9:00pm and 10:00pm.
 6. Within this time frame, February was the busiest month, and considering that the most used words are 'Happy', 'Birthday', and 'Congratulations', we can infer that there were a lot of birthday celebrations and goodnews in February.
 ---
-You can interact with the report ![here](https://app.powerbi.com/groups/me/reports/b22735c4-ac8d-434f-a95b-5bbad2449d8a?experience=power-bi)
+You can interact with the report [here](https://app.powerbi.com/groups/me/reports/b22735c4-ac8d-434f-a95b-5bbad2449d8a?experience=power-bi)
