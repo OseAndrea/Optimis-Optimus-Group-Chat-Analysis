@@ -47,3 +47,15 @@ I learnt to create date and distinct name tables. I also learned to model these 
 6. Within this time frame, February was the busiest month, and considering that the most used words are 'Happy', 'Birthday', and 'Congratulations', we can infer that there were a lot of birthday celebrations and goodnews in February.
 ---
 You can interact with the report [here](https://app.powerbi.com/groups/me/reports/b22735c4-ac8d-434f-a95b-5bbad2449d8a?experience=power-bi)
+
+---
+## Challenges
+1. Cleaning and sorting through the messages (especially those that had emojis).
+2. Not being able to detect if messages were original or replies to other messages.
+
+---
+## Conclusion & Recommendation
+
+![Conclusion](https://images.pexels.com/photos/1888005/pexels-photo-1888005.jpeg?auto=compress&cs=tinysrgb&w=400)
+
+This project was an exhilarating learning opportunity for me. WThe challenges I experienced while cleaning the data helped me learn how to work with unstructured qualitative datasets. 
